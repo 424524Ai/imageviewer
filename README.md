@@ -1,2 +1,2 @@
 # Image viewer
-This is an image viewer programme developed with Java.
+An image viewer program developed in Java.
